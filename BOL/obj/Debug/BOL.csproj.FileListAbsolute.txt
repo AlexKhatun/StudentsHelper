@@ -1,0 +1,10 @@
+C:\Типа диплом\StudentsHelper\BOL\bin\Debug\BOL.dll
+C:\Типа диплом\StudentsHelper\BOL\bin\Debug\BOL.pdb
+C:\Типа диплом\StudentsHelper\BOL\obj\Debug\BOL.csprojResolveAssemblyReference.cache
+C:\Типа диплом\StudentsHelper\BOL\obj\Debug\BOL.dll
+C:\Типа диплом\StudentsHelper\BOL\obj\Debug\BOL.pdb
+C:\Типа диплом\StudentsHelper\BOL\bin\Debug\BOL.dll.config
+C:\Типа диплом\StudentsHelper\BOL\bin\Debug\EntityFramework.dll
+C:\Типа диплом\StudentsHelper\BOL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Типа диплом\StudentsHelper\BOL\bin\Debug\EntityFramework.xml
+C:\Типа диплом\StudentsHelper\BOL\bin\Debug\EntityFramework.SqlServer.xml

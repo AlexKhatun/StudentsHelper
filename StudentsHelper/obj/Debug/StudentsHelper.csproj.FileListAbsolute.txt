@@ -24,3 +24,13 @@ C:\Типа диплом\StudentsHelper\StudentsHelper\bin\Antlr3.Runtime.pdb
 C:\Типа диплом\StudentsHelper\StudentsHelper\obj\Debug\StudentsHelper.csprojResolveAssemblyReference.cache
 C:\Типа диплом\StudentsHelper\StudentsHelper\obj\Debug\StudentsHelper.dll
 C:\Типа диплом\StudentsHelper\StudentsHelper\obj\Debug\StudentsHelper.pdb
+C:\Типа диплом\StudentsHelper\StudentsHelper\bin\BLL.dll
+C:\Типа диплом\StudentsHelper\StudentsHelper\bin\BOL.dll
+C:\Типа диплом\StudentsHelper\StudentsHelper\bin\DAL.dll
+C:\Типа диплом\StudentsHelper\StudentsHelper\bin\EntityFramework.dll
+C:\Типа диплом\StudentsHelper\StudentsHelper\bin\BLL.pdb
+C:\Типа диплом\StudentsHelper\StudentsHelper\bin\BOL.pdb
+C:\Типа диплом\StudentsHelper\StudentsHelper\bin\DAL.pdb
+C:\Типа диплом\StudentsHelper\StudentsHelper\bin\EntityFramework.xml
+C:\Типа диплом\StudentsHelper\StudentsHelper\bin\EntityFramework.SqlServer.dll
+C:\Типа диплом\StudentsHelper\StudentsHelper\bin\EntityFramework.SqlServer.xml

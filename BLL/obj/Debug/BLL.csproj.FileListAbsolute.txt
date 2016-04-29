@@ -1,0 +1,14 @@
+C:\Типа диплом\StudentsHelper\BLL\bin\Debug\BLL.dll
+C:\Типа диплом\StudentsHelper\BLL\bin\Debug\BLL.pdb
+C:\Типа диплом\StudentsHelper\BLL\bin\Debug\BOL.dll
+C:\Типа диплом\StudentsHelper\BLL\bin\Debug\DAL.dll
+C:\Типа диплом\StudentsHelper\BLL\bin\Debug\EntityFramework.dll
+C:\Типа диплом\StudentsHelper\BLL\bin\Debug\BOL.pdb
+C:\Типа диплом\StudentsHelper\BLL\bin\Debug\DAL.pdb
+C:\Типа диплом\StudentsHelper\BLL\bin\Debug\EntityFramework.xml
+C:\Типа диплом\StudentsHelper\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Типа диплом\StudentsHelper\BLL\obj\Debug\BLL.dll
+C:\Типа диплом\StudentsHelper\BLL\obj\Debug\BLL.pdb
+C:\Типа диплом\StudentsHelper\BLL\bin\Debug\BLL.dll.config
+C:\Типа диплом\StudentsHelper\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Типа диплом\StudentsHelper\BLL\bin\Debug\EntityFramework.SqlServer.xml
