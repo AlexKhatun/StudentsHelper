@@ -12,7 +12,6 @@ namespace StudentsHelper.Controllers
     {
         public ActionResult Index()
         {
-            Test t = new Test();
             return View();
         }
 

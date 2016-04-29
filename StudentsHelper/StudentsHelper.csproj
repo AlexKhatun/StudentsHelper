@@ -170,10 +170,6 @@
       <Project>{31af2e20-04ef-480f-986f-1d073224ab55}</Project>
       <Name>BOL</Name>
     </ProjectReference>
-    <ProjectReference Include="..\DAL\DAL.csproj">
-      <Project>{bf5e7fe8-1f56-4e49-901b-a273d18ba928}</Project>
-      <Name>DAL</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />

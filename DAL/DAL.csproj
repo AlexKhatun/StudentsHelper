@@ -48,9 +48,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Abstract\BaseRepository.cs" />
+    <Compile Include="Abstract\IDisciplineRepository.cs" />
+    <Compile Include="Abstract\IEducationRepository.cs" />
+    <Compile Include="Abstract\IGroupRepository.cs" />
+    <Compile Include="Abstract\IStudentRepository.cs" />
+    <Compile Include="Concrete\EfDisciplineRepository.cs" />
+    <Compile Include="Concrete\EfEducationRepository.cs" />
+    <Compile Include="Concrete\EFGroupRepository.cs" />
+    <Compile Include="Concrete\EfStudentRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="StudentHelperContext.cs" />
-    <Compile Include="Test.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\BOL\BOL.csproj">
@@ -62,6 +70,7 @@
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
