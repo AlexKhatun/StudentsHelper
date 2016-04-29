@@ -1,8 +1,10 @@
-﻿using System;
+﻿using DAL;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using BOL;
 
 namespace StudentsHelper.Controllers
 {
@@ -10,6 +12,7 @@ namespace StudentsHelper.Controllers
     {
         public ActionResult Index()
         {
+            Test t = new Test();
             return View();
         }
 
