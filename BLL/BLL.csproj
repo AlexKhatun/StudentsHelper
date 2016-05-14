@@ -57,6 +57,7 @@
     <Compile Include="WorkWithDb\DisciplineDb.cs" />
     <Compile Include="WorkWithDb\EducationDb.cs" />
     <Compile Include="WorkWithDb\GroupDb.cs" />
+    <Compile Include="WorkWithDb\LabWorkDb.cs" />
     <Compile Include="WorkWithDb\StudentDb.cs" />
   </ItemGroup>
   <ItemGroup>

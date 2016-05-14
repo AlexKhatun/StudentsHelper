@@ -34,3 +34,5 @@ C:\Типа диплом\StudentsHelper\StudentsHelper\bin\DAL.pdb
 C:\Типа диплом\StudentsHelper\StudentsHelper\bin\EntityFramework.xml
 C:\Типа диплом\StudentsHelper\StudentsHelper\bin\EntityFramework.SqlServer.dll
 C:\Типа диплом\StudentsHelper\StudentsHelper\bin\EntityFramework.SqlServer.xml
+C:\Типа диплом\StudentsHelper\StudentsHelper\bin\Ninject.dll
+C:\Типа диплом\StudentsHelper\StudentsHelper\bin\Ninject.xml

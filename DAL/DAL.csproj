@@ -52,10 +52,12 @@
     <Compile Include="Abstract\IDisciplineRepository.cs" />
     <Compile Include="Abstract\IEducationRepository.cs" />
     <Compile Include="Abstract\IGroupRepository.cs" />
+    <Compile Include="Abstract\ILabWorkRepository.cs" />
     <Compile Include="Abstract\IStudentRepository.cs" />
     <Compile Include="Concrete\EfDisciplineRepository.cs" />
     <Compile Include="Concrete\EfEducationRepository.cs" />
     <Compile Include="Concrete\EFGroupRepository.cs" />
+    <Compile Include="Concrete\EfLabWorkRepository.cs" />
     <Compile Include="Concrete\EfStudentRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="StudentHelperContext.cs" />

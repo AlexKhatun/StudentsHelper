@@ -8,12 +8,23 @@ namespace BLL.WorkWithDb
 {
     public class AllDb
     {
-        public GroupDb GroupDb { get; set; }
+        public GroupDb GroupDb;
 
-        public StudentDb StudentDb { get; set; }
+        public StudentDb StudentDb;
 
-        public DisciplineDb DisciplineDb { get; set; }
+        public DisciplineDb DisciplineDb;
 
-        public EducationDb EducationDb { get; set; }
+        public EducationDb EducationDb;
+
+        public LabWorkDb LabWorkDb;
+
+        public AllDb()
+        {
+            GroupDb = new GroupDb();
+            StudentDb = new StudentDb();
+            DisciplineDb = new DisciplineDb();
+            EducationDb = new EducationDb();
+            LabWorkDb = new LabWorkDb();
+        }
     }
 }

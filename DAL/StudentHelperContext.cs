@@ -19,5 +19,7 @@ namespace DAL
         public DbSet<Group> Group { get; set; }
 
         public DbSet<Education> Education { get; set; }
+
+        public DbSet<LabWork> LabWork { get; set; } 
     }
 }

@@ -17,6 +17,7 @@ namespace BLL
             Bind<IStudentRepository>().To<EfStudentRepository>();
             Bind<IEducationRepository>().To<EfEducationRepository>();
             Bind<IDisciplineRepository>().To<EfDisciplineRepository>();
+            Bind<ILabWorkRepository>().To<EfLabWorkRepository>();
         }
     }
 }

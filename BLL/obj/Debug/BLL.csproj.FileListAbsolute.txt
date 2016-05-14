@@ -12,3 +12,5 @@ C:\Типа диплом\StudentsHelper\BLL\obj\Debug\BLL.pdb
 C:\Типа диплом\StudentsHelper\BLL\bin\Debug\BLL.dll.config
 C:\Типа диплом\StudentsHelper\BLL\bin\Debug\EntityFramework.SqlServer.dll
 C:\Типа диплом\StudentsHelper\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Типа диплом\StudentsHelper\BLL\bin\Debug\Ninject.dll
+C:\Типа диплом\StudentsHelper\BLL\bin\Debug\Ninject.xml

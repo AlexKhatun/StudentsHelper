@@ -12,7 +12,7 @@ namespace BOL
 
         public string Title { get; set; }
 
-        public int LabCount { get; set; }
+        public virtual ICollection<LabWork> LabWorks { get; set; } 
 
         public virtual ICollection<Education> Educations { get; set; }
     }
